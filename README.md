@@ -2,10 +2,9 @@
 This model is trained using the Brain Tumor MRI Dataset by Masoud Nickparvar on Kaggle.
 Msoud Nickparvar. (2021). Brain Tumor MRI Dataset [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/2645886
 
-# Deployed on AWS EC2 instance
-
-# AWS deployment link:
-[text](http://52.3.228.145:8501/)
+# AWS deployment:
+Deployed on AWS EC2 instance
+[click to view interface](http://52.3.228.145:8501/)
 
 # 🧠 Brain Tumor Classification using DenseNet121
 
