@@ -2,6 +2,11 @@
 This model is trained using the Brain Tumor MRI Dataset by Masoud Nickparvar on Kaggle.
 Msoud Nickparvar. (2021). Brain Tumor MRI Dataset [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/2645886
 
+# Deployed on AWS EC2 instance
+
+# AWS deployment link:
+[text](http://52.3.228.145:8501/)
+
 # 🧠 Brain Tumor Classification using DenseNet121
 
 A deep learning pipeline for automated brain tumor classification from MRI scans using transfer learning with DenseNet121 and PyTorch. Achieves **98.40% test accuracy** across four classes on a held-out test set of 1,311 images.
