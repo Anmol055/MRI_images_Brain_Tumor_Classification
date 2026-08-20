@@ -4,7 +4,7 @@ Msoud Nickparvar. (2021). Brain Tumor MRI Dataset [Data set]. Kaggle. https://do
 
 # AWS deployment:
 Deployed on AWS EC2 instance
-[click to view interface](http://52.3.228.145:8501/)
+[click to view interface](http://18.204.55.194:8501)
 
 # 🧠 Brain Tumor Classification using DenseNet121
 
